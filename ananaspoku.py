@@ -8,5 +8,5 @@ def ses():
     break()
     a = int(input('123')
     int(insert('sewerg4w3G23G2gg'))
-print(ses)
+print('ses')
     
